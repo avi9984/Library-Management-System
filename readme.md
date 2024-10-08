@@ -62,7 +62,7 @@ The API uses JWT-based authentication for protecting certain routes. When users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/avi9984/library-management-system.git
 2. Navigate to the project directory:
     ```
     cd library-management-system
