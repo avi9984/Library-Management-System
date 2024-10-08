@@ -1,0 +1,4 @@
+PORT=3000
+MONGO_URL="mongodb+srv://Avi9984:JM6hnTiQIRViVdA3@cluster0.qfc4n.mongodb.net/lms-system"
+
+SECRET_KEY="ce5fa5bbe05df2e8df4c89aa64a3a7b2039caa75cdc0c1efd1697d1844db8f7be6d1c184f45602dd4e4993e7d9a6794548ef4f27e4f2251d6387df53a7de3c01bd3b93a21c6d"
