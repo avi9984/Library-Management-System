@@ -80,3 +80,4 @@ The API uses JWT-based authentication for protecting certain routes. When users 
     ```
     npm start
     
+ 6. The API will be available at http://localhost:3000.
